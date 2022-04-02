@@ -108,6 +108,6 @@
     })
   </script>
   <script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="ebb3cfa72eca5c161bef21ba-|49" defer=""></script>
-  <footer style="padding-top: 50px">Copyright &copy; <?php echo date("Y"); ?> MJ On</footer>
+  <footer style="padding-top: 50px">Copyright &copy; <?php echo date("Y"); ?><a href="https://github.com/marksjr/"> MJ On</a></footer>
   </body>
 </html>
